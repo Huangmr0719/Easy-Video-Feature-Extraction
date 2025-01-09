@@ -1,0 +1,7 @@
+opencv-python
+pandas
+tqdm
+torch
+transformers
+pillow
+clip
